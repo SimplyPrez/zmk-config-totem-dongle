@@ -15,3 +15,8 @@ TOTEM is a 38 key column-staggered split keyboard running [ZMK](https://zmk.dev/
 ![TOTEM layout](/docs/images/TOTEM_layout.svg)
 
 - Changed the default keymap to colemak-dh
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/my_keymap.svg">
+</picture>
+
